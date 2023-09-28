@@ -8,9 +8,7 @@ SESSIONKEY.txt
 var/dirty.db
 *~
 *.patch
-npm-debug.log
-*.DS_Store
-*.crt
+npm-de
 *.key
 credentials.json
 out/
